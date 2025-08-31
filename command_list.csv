@@ -1,0 +1,69 @@
+    1  [200~git clone https://github.com/твій_логін/HW_10.git
+    2  cls
+    3  clear
+    4  git clone https://github.com/yaroslavobrusnikov-tech/HW_10.git
+    5  cd HW_10
+    6  rouch text_ignore,txt
+    7  touch text_ignore,txt
+    8  touch text_ignore.txt
+    9  git status
+   10  echo "text_ignore.txt" >> .gitignore
+   11  git status
+   12  git rm --cached text_ignore.txt
+   13  git rm --cached text_ignore.txt
+   14  git rm --cached text_ignore.txt
+   15  touch text_ignore,txt
+   16  clear
+   17  touch text_ignore.txt
+   18  pwd
+   19  ls -la
+   20  ls
+   21  git rm --cached text_ignore.txt
+   22  echo text_ignore.txt >>.gitignore
+   23  git status
+   24  git add.
+   25  git add. git commit -m "Додав text_ignore.txt у .gitignore"
+   26  clear
+   27  git add .
+   28  git add . git commit -m "Додав text_ignore.txt e .gitignore"
+   29  clear
+   30  git add .
+   31  git commit -m "Додав text_ignore.txt у .gitignore"
+   32  git config --global user.email "yaroslavobrusnikov@gmail.com"
+   33  git config --global user.email
+   34  git config --global user.name
+   35  git config --global user.name "yaroslavobrusnikov-tech"
+   36  git config --global user.name
+   37  pwd
+   38  ls -la
+   39  git add .
+   40  $ git commit -m Додав text_ignore.txt у .gitignore"
+   41  git status
+   42  git commit -m "Додав text_ignore.txt у .gitignore"
+   43  git status
+   44  git status
+   45  $ git commit -m Додав text_ignore.txt у .gitignore"
+   46  git status
+   47  git commit -m "Додав text_ignore.txt у .gitignore"
+   48  git commit -m "Додав text_ignore.txt у .gitignore"
+   49  git status
+   50  git push origin main
+   51  touch main_text.txt
+   52  git add .
+   53  touch  D:\Rab\HW_git\HW_10
+   54  cd D:/rab/HW_git/HW_10
+   55  git checkout -b develop
+   56  touch develop_test.txt
+   57  git add .
+   58  git commit -m "Додав порожній файл develop_test.txt"
+   59  echo "just a small change" >> develop_test.txt
+   60  git status
+   61  git add .
+   62  git commit -m "Додав рядок у develop_test.txt"
+   63  git branch
+   64  git push -u origin develop
+   65  git checkout main
+   66  git merge develop
+   67  git push origin main
+   68  clear
+   69  history > command_list.csv
